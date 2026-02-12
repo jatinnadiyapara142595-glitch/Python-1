@@ -1,14 +1,15 @@
-# 📘 Python List Operations
+# 📘 Python List Operations  
 
-## (assignment 1 and 2)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
+</p>
 
 ## 📌 Description
 This program demonstrates various operations performed on Python lists.  
 It covers basic list manipulation techniques commonly used in Python programming.
 
-# 🔧Operations Implemented
-
--List Concatenation
+## 🔧 Operations Implemented
+- List Concatenation
 - Remove element from list
 - Add element using append()
 - Update list element
@@ -23,7 +24,6 @@ It covers basic list manipulation techniques commonly used in Python programming
 - Sort list in descending order
 
 ## 👨‍💻 Author
-
-* jatin nadiyapara
-* mca / python
-* marwadi University 
+* Jatin Nadiyapara  
+* MCA / Python  
+* Marwadi University  
